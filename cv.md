@@ -2,8 +2,8 @@
 ***
 ####Contact info
 ***
-* Togliatti, Russia
-* WhatsApp: +79033354092
+* Moscow, Russia
+* WhatsApp: +79771428159
 * Telegram: +79033354092
 * Discord: Alidzhon
 ####Summary
