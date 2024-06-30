@@ -18,6 +18,7 @@ I'm interested in front-end development and improve my skills every day. I think
 * Gulp
 * Bootstrap
 * JavaScript
+* jquery
 
 ## Sample code
 ```
