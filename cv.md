@@ -19,6 +19,7 @@ I'm interested in front-end development and improve my skills every day. I think
 * Bootstrap
 * JavaScript
 * jquery
+* Photoshop
 
 ## Sample code
 ```
